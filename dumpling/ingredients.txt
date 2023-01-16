@@ -1,4 +1,4 @@
-Ingredients-change
+Ingredients
 500ml double cream
 500ml milk
 3 garlic cloves
@@ -6,3 +6,4 @@ Ingredients-change
 100g grated gruyère cheese (optional)
 salt
 eating
+candy
